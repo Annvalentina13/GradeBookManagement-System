@@ -47,13 +47,16 @@ A **Professional Desktop Application** built using **Python’s Tkinter library*
 ## 🚀 How to Run
 
 1. **Clone or download** this repository  
-   
+   ```bash
    git clone https://github.com/your-username/gradebook-management-system.git
    cd gradebook-management-system
+   
 2. **Install dependencies**
-   pip install matplotlib
+   ```bash
+    pip install matplotlib
 
-
-3. **Run the application**
+4. **Run the application**
+   ```bash
    python gradebook_app.py
+
 
